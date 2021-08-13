@@ -14,6 +14,11 @@
 - Answer questions along the journey and once you get 3 correct you will complete the mission to given planet.
 - If the user gets 5 wrong, the mission is a failure.
 
+#### App Features:
+
+- Ability to delete characters from team and add new ones
+- Display characters choosen
+
 #### Future Features:
 
 - Give each user 3 lives and once those lives are lost, the mission is lost.
